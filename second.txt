@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello there
  sd
+=======
+hello there
+>>>>>>> f6fc9b4 (second file added)
